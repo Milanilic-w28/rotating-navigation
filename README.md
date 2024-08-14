@@ -6,4 +6,4 @@ This mini project is an integral part of my learning journey in HTML, CSS, and J
 
 ![Rotating Navigation](img/rotating_navigation.png)
 
-[Live preview](https://milanilic-w28.github.io/expending-cards/)
+[Live preview](https://milanilic-w28.github.io/rotating-navigation/)
